@@ -7,7 +7,7 @@ const btns = document.querySelectorAll(".btn");
 
 
 // running forEach : we pass the callback function in  forEach 
-// function is called aaginst in and every item in myList
+// function is called aginst in and every item in myList
 
 btns.forEach(function (btn){
     btn.addEventListener("click",function (e){
